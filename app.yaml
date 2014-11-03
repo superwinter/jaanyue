@@ -1,0 +1,28 @@
+application: jaanyue
+version: 8 
+runtime: php
+api_version: 1
+threadsafe: yes
+
+default_expiration: "4d 5h"
+
+handlers:
+- url: / 
+  script: index.php 
+
+# Serve images as static resources.
+- url: /(.+\.(gif|png|jpg))$
+  static_files: \1
+  upload: .+\.(gif|png|jpg)$
+  application_readable: true
+
+- url: /css
+  static_dir: css 
+
+- url: /js
+  static_dir: js 
+
+# Serve php scripts.
+- url: /(.+\.php)$
+  script: \1
+
