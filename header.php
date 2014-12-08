@@ -14,6 +14,16 @@
     });
 
 </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56624649-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </head>
 <body onload="MM_preloadImages('/images/menu1f.jpg','/images/menu2f.jpg','/images/menu3f.jpg','/images/menu4f.jpg','/images/menu5f.jpg')">
 <div id="wrap">

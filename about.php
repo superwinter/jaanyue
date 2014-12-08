@@ -25,7 +25,15 @@ include("sider.php");
           <div class="ny_left"><img src="images/right_left.jpg" /></div>
           <div class="ny_right">
           <p><!--<img src="images/building.jpg" style="float:right" />--><br />
-&nbsp;&nbsp; <span style="font-size:14px">本公司創立於1979年,專業製造汽機車儀表飾板.PC PVC PET銘板.IMD熱壓成行飾片.塑膠成型品印刷燙金噴漆專業加工,從取稿製版印刷,開模具沖床至成品採一貫作業流程, 擁有最新自動化設備,自有廠房設備一應俱全並於2011年獲ISO9001認證,歡迎蒞臨參觀。</span><br />
+&nbsp;&nbsp; <span style="font-size:14px">
+本公司創立於1979年,專業製造<br />
+1.汽、機車儀表飾板<br />
+2.PC .PET.銘板薄材類<br />
+3.IMD製作．塑膠製品<br />
+4.塗裝．網/移印．組立等<br />
+5.專業加工製造<br />
+從取稿製版印刷,開模具沖床至成品採一貫作業流程, 擁有最新自動化設備,自有廠房設備一應俱全並於2011年獲ISO9001認證,歡迎蒞臨參觀。<br />
+</span><br />
 <br />
 &nbsp;</p>
 <p><span style="font-size:14px"></span><br />
